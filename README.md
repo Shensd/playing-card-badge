@@ -1,4 +1,4 @@
-# Playing Card
+# Playing Card Badge
 
 This repo contains the firmware for a badge I designed and sold at WWHF Mile High 2025. It turned out pretty sick and I'm very proud of the project :)
 
@@ -18,9 +18,9 @@ When the device is in deep sleep it should consume very very little current, but
 
 ### Other Info
 
-* Badge takes 1xCR2032 battery
+* Before first use, battery should be loose in bag with badge, find it and insert it into the badge
     * Insert with positive side of battery facing up (aka away from the badge)!
-* Before first use, remove paper insert from battery
+* Badge takes 1xCR2032 battery
 * Large contacts on the back are protected from short circuits, but I still recommend avoiding metal bridging contacts on the board if possible
 * Inside the bag should be a 2x3 pin header, this can be soldered to the badge to convert it to an SAO, allowing it to be connected to any SAO supporting parent badge
     * Follow the orientation marked on the silkscreen to ensure that your badge is correctly oriented (gap on silkscreen matched to gap in header shielding).
