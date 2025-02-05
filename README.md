@@ -18,8 +18,6 @@ When the device is in deep sleep it should consume very very little current, but
 
 ### Other Info
 
-**IMPORTANT NOTE:** In some extended testing I found there is a bug that causes the badge to turn off on its own after several hours. If this happens to your badge, all you need to do is remove and reinsert the battery and it will turn back on. Apologies for this, if I later find the cause and it is in firmware, I will include extensive documentation on how to reflash the badge to fix it.
-
 * Before first use, battery should be loose in bag with badge, find it and insert it into the badge
     * Insert with positive side of battery facing up (aka away from the badge)!
 * Badge takes 1xCR2032 battery

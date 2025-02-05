@@ -8,7 +8,7 @@
 #include "animations/animation_blink.hpp"
 #include "animations/animation_morse.hpp"
 
-#define MILLIS_FAR_OFF 9999999
+#define MILLIS_FAR_OFF 999999999
 
 unsigned long millis_button_pressed = 0;
 unsigned long millis_button_released = 0;
